@@ -1,0 +1,44 @@
+# SignIA / LSCh - Python 3.10 de 64 bits; Windows x86-64.
+# Versiones propuestas compatibles; NO son las versiones originales recuperadas.
+# Incluye app, captura, entrenamiento y el auxiliar listar_voces.py.
+# Instalar en un entorno virtual nuevo: python -m pip install -r requirements.txt
+# Los modelos .pkl existentes requieren verificar la version usada al entrenarlos.
+
+# Interfaz y graficos del panel
+streamlit==1.45.1
+plotly==5.24.1
+
+# Camara y landmarks: conservar mp.solutions.hands y NumPy 1.x.
+# contrib proporciona cv2 y es requerido por MediaPipe.
+# No instalar ademas opencv-python ni las variantes headless.
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+numpy==1.26.4
+
+# Clasificador SVC, escalado y serializacion
+scikit-learn==1.6.1
+joblib==1.4.2
+
+# Datos, consultas SQL y escritura Parquet con pandas
+pandas==2.2.3
+duckdb==1.3.0
+pyarrow==19.0.1
+
+# Voz de la app (servicio en linea)
+gTTS==2.5.4
+
+# Graficos del entrenamiento
+matplotlib==3.9.4
+seaborn==0.13.2
+
+# Solo listar_voces.py; requiere las voces y el motor de voz del sistema.
+# Se puede omitir si no se utiliza este script auxiliar.
+pyttsx3==2.98
+
+# Dependencias transitivas obligatorias de MediaPipe 0.10.21.
+# Se fijan juntas para mantener compatibilidad con Python 3.10 y NumPy 1.26.
+jax==0.4.35
+jaxlib==0.4.35
+
+# pip resuelve las demas dependencias transitivas (SciPy, protobuf, etc.).
+# No se utilizan TensorFlow ni Keras en los archivos entregados.

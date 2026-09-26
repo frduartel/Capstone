@@ -1,0 +1,26 @@
+# Entornos virtuales: cada integrante crea el suyo.
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Cuentas, sesiones y predicciones locales.
+/data/
+
+# Variables de entorno y secretos locales.
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Archivos auxiliares del sistema operativo.
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Se conservan los scripts, README.md, requirements.txt,
+# los CSV de entrenamiento y los modelos/escaladores .pkl.
