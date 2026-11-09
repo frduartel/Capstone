@@ -1,3 +1,17 @@
+# Sprint 4 cierre documental de la entrega local
+
+**Estado vigente: cerrado documentalmente con alcance demostrado y pendientes trasladados.** Corte: 9 de noviembre de 2026.
+
+Joaquín añadió 100 HOLA: 1.900 muestras y 18 clases. Entrenamiento 1.425/prueba 475; accuracy 98,7 % y F1 macro 0,987. Activación y recuperación del par probadas.
+
+**Pendientes:** No hubo nuevas palabras ni evaluación por persona; URL pública no acreditada: P-03 y P-04. Capacidad base 36 h y tareas 44 h: sobreplanificación de 8 h, no horas reales.
+
+El cierre es documental y operativo para preparar la presentación local. La aceptación formal del PO/docente y los criterios pendientes se conservan abiertos. La Definition of Done histórica se mantiene: revisión por otro integrante, criterios satisfechos, pruebas, documentación y Sprint Review. La declaración general de participación no acredita por sí sola cada requisito.
+
+La síntesis de los ocho sprints y el backlog P-01 a P-10 están en [roadmap](../../02_backlog/roadmap.md) y en el anexo J del informe final 2.6. Los estados, horas y campos vacíos del registro siguiente corresponden al seguimiento anterior; no describen el corte vigente.
+
+## Registro histórico anterior al cierre
+
 # Sprint 4: Modelo de reconocimiento (IA) y primera versión en la nube
 
 | Campo | Detalle |

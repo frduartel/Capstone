@@ -1,3 +1,17 @@
+# Sprint 2 cierre documental de la entrega local
+
+**Estado vigente: cerrado documentalmente con alcance demostrado y pendientes trasladados.** Corte: 9 de noviembre de 2026.
+
+Arquitecturas actual y objetivo, modelo lógico de datos y sistema de diseño documentados en anexos C, D y E.
+
+**Pendientes:** Mockups Figma y aceptación específica del diseño no acreditados; trasladados a P-01.
+
+El cierre es documental y operativo para preparar la presentación local. La aceptación formal del PO/docente y los criterios pendientes se conservan abiertos. La Definition of Done histórica se mantiene: revisión por otro integrante, criterios satisfechos, pruebas, documentación y Sprint Review. La declaración general de participación no acredita por sí sola cada requisito.
+
+La síntesis de los ocho sprints y el backlog P-01 a P-10 están en [roadmap](../../02_backlog/roadmap.md) y en el anexo J del informe final 2.6. Los estados, horas y campos vacíos del registro siguiente corresponden al seguimiento anterior; no describen el corte vigente.
+
+## Registro histórico anterior al cierre
+
 # Sprint 2: Arquitectura y diseño
 
 | Campo | Detalle |

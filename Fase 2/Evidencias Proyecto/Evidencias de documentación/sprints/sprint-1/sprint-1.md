@@ -1,3 +1,17 @@
+# Sprint 1 cierre documental de la entrega local
+
+**Estado vigente: cerrado documentalmente con alcance demostrado y pendientes trasladados.** Corte: 9 de noviembre de 2026.
+
+Visión, backlog, mapas, definición y entregables de Fase 1 disponibles. El registro histórico ya declaraba cierre retroactivo.
+
+**Pendientes:** Los objetivos y requisitos originales se conservan; no se reconstruyen horas ni reuniones.
+
+El cierre es documental y operativo para preparar la presentación local. La aceptación formal del PO/docente y los criterios pendientes se conservan abiertos. La Definition of Done histórica se mantiene: revisión por otro integrante, criterios satisfechos, pruebas, documentación y Sprint Review. La declaración general de participación no acredita por sí sola cada requisito.
+
+La síntesis de los ocho sprints y el backlog P-01 a P-10 están en [roadmap](../../02_backlog/roadmap.md) y en el anexo J del informe final 2.6. Los estados, horas y campos vacíos del registro siguiente corresponden al seguimiento anterior; no describen el corte vigente.
+
+## Registro histórico anterior al cierre
+
 # Sprint 1: Documentación y definición
 
 | Campo | Detalle |
