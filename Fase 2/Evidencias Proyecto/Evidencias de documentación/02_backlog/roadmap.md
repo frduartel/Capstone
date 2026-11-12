@@ -1,3 +1,9 @@
+## Actualización vigente al 11 de noviembre de 2026
+
+HU-24 tiene implementación de secuencias y entrenamiento real, integrados desde la rama de Franco. Se activó el modelo de Joaquín: 60 clases, accuracy 80,6 % y F1 macro 0,779, con 527 clips seleccionados y datos estáticos. Las pruebas tienen soporte para 57 clases. El anexo K del informe 2.6 conserva resultados y límites. Pasaron 27 pruebas de integración; no se ejecutó aceptación humana completa del modelo activado.
+
+P-05 cambia de implementación pendiente a validación pendiente del reconocimiento de secuencias. P-09 tiene ahora un commit publicado de código y modelo (SIGNIA 0cc3a4d), pero la revisión por otro integrante no se presume. Continúan pendientes REPOSO (omitido por Joaquín), depuración de alias, vocabulario omitido, calidad objetivo y aceptación independiente. Los apartados con corte al 9 de noviembre se conservan como antecedente histórico del cierre documental.
+
 # Roadmap y cierre documental de SignIA
 
 ## Cierre vigente de la entrega local al 9 de noviembre de 2026
